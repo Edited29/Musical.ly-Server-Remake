@@ -1,3 +1,6 @@
+<?php
+header('Content-Type: application/json; charset=utf-8');
+?>
 {
 	"max_cursor": 0,
 	"aweme_list": [{
