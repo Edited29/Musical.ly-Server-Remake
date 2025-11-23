@@ -1,2 +1,2 @@
 # Musical.ly-Server-Remake
-A revival of Musical.ly API
+A revival of Musical.ly API in PHP
